@@ -8,7 +8,7 @@ const route = Router()
 route.get('/', (req, res) => {
     return res.json({
         success: true,
-        message: "Sucesso!"
+        message: "Sucesso!!!"
     })
 })
 
